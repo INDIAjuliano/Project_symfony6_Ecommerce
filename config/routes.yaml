@@ -1,3 +1,9 @@
 controllers:
     resource: ../src/Controller/
     type: attribute
+
+# config/routes.yaml
+
+# registration_success:
+#     path: /registration/success
+#     controller: App\Controller\RegistrationSuccessController::index
